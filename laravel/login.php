@@ -1,2 +1,2 @@
 <?php
-echo "写点东西";
+echo "bbbbbbbbbbbbbb";
